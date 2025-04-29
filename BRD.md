@@ -117,11 +117,3 @@ The app encourages honest reporting through a points system and uses AI to autom
 - Mapping service (Google Maps, Mapbox, or OpenStreetMap).
 
 ---
-
-# Appendix
-
-- [A] Draft Wireframe sketches
-- [B] API Endpoints Table (to be built later)
-- [C] DB ERD Diagram (to be built next)
-
----
